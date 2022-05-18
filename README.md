@@ -2,4 +2,4 @@
 
 Repository for website code of the anano app.
 
-Copyright © Marco Diaz Moore
+Copyright 2022 © Marco Diaz Moore
